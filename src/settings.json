@@ -1,0 +1,71 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Discover cutting-edge technology tailored for your greatest journeys.",
+        "title": "Unlock Your Next Adventure"
+      }
+    },
+    {
+      "id": "NavbarSimple",
+      "variables": {
+        "subtitle": "Discover cutting-edge technology tailored for your greatest journeys.",
+        "title": "Unlock Your Next Adventure"
+      }
+    },
+    {
+      "id": "HeroWithOffsetImage",
+      "variables": {
+        "subtitle": "Discover cutting-edge technology tailored for your greatest journeys.",
+        "title": "Unlock Your Next Adventure"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Discover cutting-edge technology tailored for your greatest journeys.",
+        "title": "Unlock Your Next Adventure"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Discover cutting-edge technology tailored for your greatest journeys.",
+        "title": "Unlock Your Next Adventure"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Discover cutting-edge technology tailored for your greatest journeys.",
+        "title": "Unlock Your Next Adventure"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Discover cutting-edge technology tailored for your greatest journeys.",
+        "title": "Unlock Your Next Adventure"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Discover cutting-edge technology tailored for your greatest journeys.",
+        "title": "Unlock Your Next Adventure"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Discover cutting-edge technology tailored for your greatest journeys.",
+        "title": "Unlock Your Next Adventure"
+      }
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Unlock Your Next Adventure",
+  "subtitle": "Discover cutting-edge technology tailored for your greatest journeys."
+}
